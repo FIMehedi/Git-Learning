@@ -1,9 +1,11 @@
 def welcome(name):
-    print("welcome, " + name)
+    print("Hello, " + name)
 
-welcome("F I Mehedi")
+welcome("World")
 
-for x in range(1, 101):
+for x in range(1, 1001):
     print(x)
     
 print("well done!")
+
+print("Version 1.1 released")
